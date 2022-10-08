@@ -6,6 +6,6 @@ Most of this time I use Python (Django, FastAPI), but also did fun automatizatio
 
 Currently work with high-loaded web-services + microservices and different bots (Telegram, Slack).
 
-Programming is my passion 🤪 and the reason why you can see a lot of repos here ⬇.
+Programming is my passion 🤪 So you can see for yourself a lot of repos here ⬇.
 
 ###### P.S.: i'm not in Singapore, yet.
